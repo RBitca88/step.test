@@ -1,1 +1,2 @@
-This is an text of a readme file. Will add content later
+Step It Java Course.
+Java is an awesome programing language.
